@@ -34,7 +34,7 @@
                       "required" : false
                     } ,
                     "value" : {
-                      "type" : "number" ,
+                      "type" : "boolean" ,
                       "required" : false
                     }
                   }

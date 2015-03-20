@@ -19,7 +19,7 @@
           "required" : false
         } ,
         "value" : {
-          "type" : "string" ,
+          "type" : "boolean" ,
           "required" : false
         } ,
         "modifiedAt" : {
